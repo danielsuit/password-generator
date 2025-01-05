@@ -1,2 +1,2 @@
 # password-generator
-A program that creates a randomized password
+A Python program that generates a randomized password suitable for most password requirements.
